@@ -1,5 +1,7 @@
 # MyComarFront
 
+This is the front end section of a project i created that consits of a recruitement platform dedicated to the comar company. The product is called "My Comar" and it has all the functionalities needed for the best recruitement management system you can fin ranging from a great dashboarding system to a recommendation system and a fully automated candidate selection functions. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.3.
 
 ## Development server
